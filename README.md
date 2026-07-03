@@ -20,12 +20,12 @@ git config --list <br>
 14. open your VS code --> open terminal (check the menu click the option terminal --> new terminal) --> first check last words (ex. /News-Website>) <br>
 15. paste the copy link --> close the terminal <br>
 16. create files, edit files, delete files into your folder <br>
-17. open terminal and five velow cmd one by one : <br>
+17. open Terminal and five velow cmd one by one : <br>
 git add . <br>
 git commit -m "give a msg" <br>
 git push origin main (main --> branch name {check your working branch first and after that write the branch name}) <br>
 18. repeat the cycle <br>
-edit
+edit files --> git add . --> git commit -m "give a msg" --> git push origin main --> edit files
 
 
 
